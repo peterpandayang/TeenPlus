@@ -84,7 +84,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(MainActivity.this, ResetPasswordActivity.class));
                 break;
             case R.id.sign_in_button:
-                finish();
+//                finish();
+                Intent i=new Intent(MainActivity.this, LoginActivity.class);
+                startActivity(i);
                 break;
         }
     }

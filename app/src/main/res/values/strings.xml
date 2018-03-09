@@ -14,8 +14,13 @@
     <string name="no_field_can_be_empty">No field can be empty</string>
     <string name="passwords_must_be_the_same">Password and password again field must be the same</string>
     <string name="here_is_values">Here is values: %1$s</string>
-
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
     <string name="btn_forgot_password">Forgot your password?</string>
     <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
 
 </resources>
