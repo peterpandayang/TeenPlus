@@ -26,5 +26,10 @@
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
     <string name="btn_reset_password">Reset Password</string>
     <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="title_feed">Feed</string>
+    <string name="title_search">Search</string>
+    <string name="title_messaging">Messaging</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
 
 </resources>
