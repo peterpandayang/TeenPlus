@@ -4,7 +4,7 @@
     <item
         android:id="@+id/navigation_feed"
         android:icon="@drawable/ic_menu_black_24dp"
-        android:title="@string/title_feed" />
+        android:title="Feed" />
 
     <item
         android:id="@+id/navigation_search"
