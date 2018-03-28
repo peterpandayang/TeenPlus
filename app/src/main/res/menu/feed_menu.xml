@@ -3,18 +3,19 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/navigation_feed"
+        android:id="@+id/create_new_feed"
         android:icon="@drawable/ic_add_black_24dp"
-        android:title="Feed"
+        android:title="create"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="ifRoom"
+        android:onClick="createFeed"/>
 
     <item
-        android:id="@+id/navigation_search"
+        android:id="@+id/logout"
         android:icon="@drawable/ic_power_settings_new_black_24dp"
-        android:title="@string/title_search"
+        android:title="logout"
         app:showAsAction="ifRoom"/>
 
 
